@@ -1,2 +1,2 @@
 # Circumference-Calculator
-This small app claculates the circumference of a circle.
+This small app calculates the circumference of a circle.
